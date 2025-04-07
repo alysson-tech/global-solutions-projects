@@ -11,6 +11,7 @@ Each solution is documented in its own folder with details on purpose, technolog
 - [Guardião IA – AI for Disaster Response](./guardian-ai/)
 - [InsightCare – Personalized Wellness via AI + Gamification](./insightcare/)
 - [NeuroXR – XR Therapy for Phantom Limb Pain](./neuroxr/)
+- [Carbon Marketplace – Blockchain for Carbon Credit Tokenization](./carbon-marketplace/)
 - *(more coming soon...)*
 
 ---
@@ -26,6 +27,7 @@ Cada solução está documentada em sua própria pasta, com detalhes sobre prop�
 - [Guardião IA – IA para Resposta a Desastres](./guardian-ai/)
 - [InsightCare – Bem-estar Personalizado com IA + Gamificação](./insightcare/)
 - [NeuroXR – Terapia com Realidade Mista para Dor Fantasma](./neuroxr/)
+- [Carbon Marketplace – Blockchain para Créditos de Carbono](./carbon-marketplace/)
 - *(em breve novas ideias...)*
 
 ---
