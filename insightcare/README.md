@@ -18,7 +18,7 @@ The system is envisioned as a **Platform as a Service (PaaS)** that can be adopt
 
 This project is in the conceptual prototype phase and is part of a long-term study in combining AI, health data, and digital behavior science.
 
-### 🧠 Technologies Considered
+### Technologies Considered
 - Generative AI for health insights
 - Integration with APIs for wearables and clinical systems
 - Real-time dashboards and alert systems
@@ -45,7 +45,7 @@ O sistema é idealizado como uma **Plataforma como Serviço (PaaS)**, podendo se
 
 Este projeto está em fase conceitual e integra uma linha de estudos de longo prazo na combinação entre IA, dados de saúde e ciência do comportamento digital.
 
-### 🧠 Tecnologias Consideradas
+### Tecnologias Consideradas
 - IA generativa para insights de saúde
 - Integração com APIs de vestíveis e sistemas clínicos
 - Dashboards em tempo real e sistemas de alerta
@@ -54,4 +54,26 @@ Este projeto está em fase conceitual e integra uma linha de estudos de longo pr
 
 ---
 
-**Última atualização:** Abril de 2025 • **Last updated:** April 2025
+## Authorship & Rights • Autoria e Direitos
+
+This project was co-created by **Alysson Bruno Oliveira Santos** and **Sérgio Yagi** during the Storytelling course at FIAP.
+
+The **core concept** of using wearables for health data collection was initially proposed by Sérgio Yagi. The project was later **expanded, structured and fully contextualized** by Alysson Bruno, who integrated elements such as **preventive care, generative AI, and gamification** to enhance user engagement and clinical relevance.
+
+The **pitch presentation and storytelling strategy** used in class were **entirely designed and executed by Alysson Bruno**, including the PDF layout, content flow, and adaptation to a 2-minute storytelling format.
+
+This repository reflects the academic and creative contributions of both collaborators. The material is protected by authorship rights and may not be reproduced, adapted, or used for commercial purposes without explicit permission.
+
+---
+
+Este projeto foi cocriado por **Alysson Bruno Oliveira Santos** e **Sérgio Yagi** durante a disciplina de Storytelling da FIAP.
+
+O **conceito central** de uso de vestíveis para coleta de dados de saúde foi inicialmente proposto por Sérgio Yagi. O projeto foi posteriormente **expandido, estruturado e contextualizado** por Alysson Bruno, que integrou recursos como **prevenção, IA generativa e gamificação**, ampliando o impacto clínico e o engajamento dos usuários.
+
+A **apresentação do pitch e a estratégia narrativa** utilizadas em aula foram **integralmente elaboradas e executadas por Alysson Bruno**, incluindo o design do PDF, a organização do conteúdo e a adaptação para o formato narrativo de 2 minutos.
+
+Este repositório reflete as contribuições acadêmicas e criativas de ambos os colaboradores. O material é protegido por direitos autorais e não pode ser reproduzido, adaptado ou utilizado para fins comerciais sem autorização expressa.
+
+---
+
+**Last updated:** April 2025 • **Última atualização:** Abril de 2025
