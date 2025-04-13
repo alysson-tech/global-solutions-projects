@@ -12,9 +12,9 @@ The platform combines:
 - Sensor networks (for real-time environmental data)
 - Aerial scanning and emergency logistics support
 
-This project was originally proposed in an academic context and is now documented as part of an independent innovation portfolio. It remains in a conceptual phase and may be expanded in the future.
+This project was originally inspired by the intention to submit it as a proposal for **scientific initiation (Iniciação Científica)** at FIAP, and to explore its potential within **Global Solution innovation challenges**. Although it was never formally submitted due to academic withdrawal, it remains part of an independent innovation portfolio and may be developed further in the future.
 
-### 🔧 Technologies Considered
+### Technologies Considered
 - Artificial Intelligence (central + embedded)
 - Drone navigation and safety systems (LiDAR, GPS RTK, thermal vision)
 - IoT sensors and edge computing
@@ -35,9 +35,9 @@ A plataforma integra:
 - Redes de sensores (para dados ambientais em tempo real)
 - Varredura aérea e apoio logístico emergencial
 
-Este projeto foi inicialmente proposto em contexto acadêmico e agora está documentado como parte de um portfólio independente de inovação. Encontra-se em fase conceitual, podendo ser expandido futuramente.
+Este projeto foi originalmente inspirado pela intenção de submetê-lo como proposta para a **Iniciação Científica da FIAP** e explorá-lo em desafios de inovação como o **Global Solution**. Embora não tenha sido continuado devido ao desligamento acadêmico, segue documentado como parte de um portfólio independente de inovação e poderá ser desenvolvido futuramente.
 
-### 🔧 Tecnologias Consideradas
+### Tecnologias Consideradas
 - Inteligência Artificial (central + embarcada)
 - Sistemas de navegação e segurança em drones (LiDAR, GPS RTK, visão térmica)
 - Sensores IoT e edge computing
@@ -46,4 +46,18 @@ Este projeto foi inicialmente proposto em contexto acadêmico e agora está docu
 
 ---
 
-**Última atualização:** Abril de 2025 • **Last updated:** April 2025
+## Authorship & Rights • Autoria e Direitos
+
+This project was entirely created, structured and developed by **Alysson Bruno Oliveira Santos**, as part of his independent portfolio of technological innovation. All concepts, system architecture, technical strategies and visual pitch materials were fully authored by him.
+
+The content is original and protected by authorship rights. Reuse, adaptation or commercial use is not permitted without explicit written authorization.
+
+---
+
+Este projeto foi integralmente idealizado, estruturado e desenvolvido por **Alysson Bruno Oliveira Santos**, como parte de seu portfólio independente de inovação tecnológica. Todos os conceitos, arquitetura do sistema, estratégias técnicas e materiais de apresentação foram criados exclusivamente por ele.
+
+O conteúdo é original e protegido por direitos autorais. Não é permitido seu reaproveitamento, adaptação ou uso comercial sem autorização expressa por escrito.
+
+---
+
+**Last updated:** April 2025 • **Última atualização:** Abril de 2025
