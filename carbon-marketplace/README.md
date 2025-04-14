@@ -14,7 +14,9 @@ This simulation of a future MVP includes:
 
 The platform follows ESG-aligned logic and was designed with scalability in mind, using modern blockchain development standards (e.g., Solidity on Ethereum).
 
-### 🔧 Technologies Considered
+This project was originally inspired by the intention to submit it to **FIAP’s scientific initiation program** and **Global Solution innovation challenges**. Although it was never formally submitted due to academic withdrawal, it remains part of an independent innovation portfolio.
+
+### Technologies Considered
 - Blockchain (Ethereum / Solidity)
 - Smart contracts for tokenization and verification
 - ERC-20 or NFT-based token models
@@ -36,9 +38,9 @@ A simulação de um MVP inclui:
 - Fluxo de validação e certificação dos projetos ambientais
 - Integração com carteiras digitais para transação e cancelamento dos tokens após uso para compensação
 
-A plataforma segue lógica alinhada a critérios ESG e foi desenhada com foco em escalabilidade, adotando padrões modernos de desenvolvimento blockchain (ex: Solidity na Ethereum).
+Este projeto foi originalmente inspirado pela intenção de submetê-lo à **Iniciação Científica da FIAP** e aos desafios de inovação do **Global Solution**. Embora não tenha sido formalmente enviado devido ao desligamento acadêmico, segue documentado como parte de um portfólio independente de inovação.
 
-### 🔧 Tecnologias Consideradas
+### Tecnologias Consideradas
 - Blockchain (Ethereum / Solidity)
 - Contratos inteligentes para tokenização e verificação
 - Tokens baseados em ERC-20 ou NFTs
@@ -48,4 +50,18 @@ A plataforma segue lógica alinhada a critérios ESG e foi desenhada com foco em
 
 ---
 
-**Última atualização:** Abril de 2025 • **Last updated:** April 2025
+## Authorship & Rights • Autoria e Direitos
+
+This project was entirely created and developed by **Alysson Bruno Oliveira Santos**, including the system concept, architecture, and innovation scope.
+
+The content is original and protected by authorship rights. Reuse, adaptation, or commercial use is not permitted without explicit written permission.
+
+---
+
+Este projeto foi integralmente idealizado e desenvolvido por **Alysson Bruno Oliveira Santos**, incluindo o conceito do sistema, arquitetura e escopo de inovação.
+
+O conteúdo é original e protegido por direitos autorais. Não é permitido seu reaproveitamento, adaptação ou uso comercial sem autorização expressa por escrito.
+
+---
+
+**Last updated:** April 2025 • **Última atualização:** Abril de 2025
