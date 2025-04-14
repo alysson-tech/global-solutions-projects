@@ -18,7 +18,7 @@ The system is envisioned as a **Platform as a Service (PaaS)** that can be adopt
 
 This project is in the conceptual prototype phase and is part of a long-term study in combining AI, health data, and digital behavior science.
 
-### 🧠 Technologies Considered
+### Technologies Considered
 - Generative AI for health insights
 - Integration with APIs for wearables and clinical systems
 - Real-time dashboards and alert systems
@@ -45,7 +45,7 @@ O sistema é idealizado como uma **Plataforma como Serviço (PaaS)**, podendo se
 
 Este projeto está em fase conceitual e integra uma linha de estudos de longo prazo na combinação entre IA, dados de saúde e ciência do comportamento digital.
 
-### 🧠 Tecnologias Consideradas
+### Tecnologias Consideradas
 - IA generativa para insights de saúde
 - Integração com APIs de vestíveis e sistemas clínicos
 - Dashboards em tempo real e sistemas de alerta
@@ -54,14 +54,14 @@ Este projeto está em fase conceitual e integra uma linha de estudos de longo pr
 
 ---
 
-## 🎤 Project Pitch • Apresentação do Projeto
+## Project Pitch • Apresentação do Projeto
 
-➡️ [Click here to view the original 2-minute pitch (PDF)](pitch_insightcare.pdf)  
-➡️ [Clique aqui para visualizar o pitch original de 2 minutos (PDF)](pitch_insightcare.pdf)
+- [Click here to view the original 2-minute pitch (PDF)](pitch_insightcare.pdf)  
+- [Clique aqui para visualizar o pitch original de 2 minutos (PDF)](pitch_insightcare.pdf)
 
 ---
 
-## ⚖️ Authorship & Rights • Autoria e Direitos
+## Authorship & Rights • Autoria e Direitos
 
 This project was co-created by **Alysson Bruno Oliveira Santos** and **Sérgio Yagi** during the Storytelling course at FIAP. The core concept was collaboratively developed, while the pitch presentation and storytelling structure were exclusively created by Alysson Bruno.
 
