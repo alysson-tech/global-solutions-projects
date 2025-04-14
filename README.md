@@ -1,34 +1,24 @@
-# Global Solutions • Soluções Inovadoras Globais
+# Global Solutions • Projetos de Inovação e Storytelling Estratégico
 
-## ENGLISH
+## ENGLISH  
+This repository brings together all work developed in the Global Solutions challenge.  
+The content is organized into two key tracks:
 
-This repository brings together conceptual prototypes and innovation proposals developed as part of my self-directed journey in Software Engineering. These ideas explore real-world problems through the creative application of emerging technologies — including Artificial Intelligence, Data Science, XR, Blockchain, and IoT.
+- `innovation-projects/` → Technological innovation and startup solutions
+- `storytelling-and-entrepreneurship/` → Strategic storytelling and emotional narratives
 
-Each solution is documented in its own folder with details on purpose, technologies, and vision. These are original works of innovation, and may evolve into real-world MVPs over time.
-
-### 🔍 Projects Index
-
-- [Guardião IA – AI for Disaster Response](./guardian-ai/)
-- [InsightCare – Personalized Wellness via AI + Gamification](./insightcare/)
-- [NeuroXR – XR Therapy for Phantom Limb Pain](./neuroxr/)
-- [Carbon Marketplace – Blockchain for Carbon Credit Tokenization](./carbon-marketplace/)
-- *(more coming soon...)*
+Each track contains its own README and documentation.
 
 ---
 
-## PORTUGUÊS
+## PORTUGUÊS  
+Este repositório reúne todos os trabalhos desenvolvidos no desafio Global Solutions.  
+O conteúdo está organizado em duas frentes principais:
 
-Este repositório reúne protótipos conceituais e propostas inovadoras desenvolvidas como parte da minha formação autodidata em Engenharia de Software. As ideias abordam problemas reais por meio do uso criativo de tecnologias emergentes — como Inteligência Artificial, Ciência de Dados, XR, Blockchain e IoT.
+- `innovation-projects/` → Inovação tecnológica e soluções de startups
+- `storytelling-and-entrepreneurship/` → Storytelling estratégico e narrativas emocionais
 
-Cada solução está documentada em sua própria pasta, com detalhes sobre propósito, tecnologias envolvidas e visão de impacto. São criações originais e podem evoluir futuramente para MVPs reais.
-
-### 🔍 Índice de Projetos
-
-- [Guardião IA – IA para Resposta a Desastres](./guardian-ai/)
-- [InsightCare – Bem-estar Personalizado com IA + Gamificação](./insightcare/)
-- [NeuroXR – Terapia com Realidade Mista para Dor Fantasma](./neuroxr/)
-- [Carbon Marketplace – Blockchain para Créditos de Carbono](./carbon-marketplace/)
-- *(em breve novas ideias...)*
+Cada frente possui seu próprio README e documentação.
 
 ---
 
