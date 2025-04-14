@@ -52,8 +52,8 @@ Este projeto foi originalmente inspirado pela intenção de submetê-lo à **Ini
 
 ## Project Pitch • Apresentação do Projeto
 
-➡️ [Click here to view the original 2-minute pitch (PDF)](pitch_neuroxr.pdf)  
-➡️ [Clique aqui para visualizar o pitch original de 2 minutos (PDF)](pitch_neuroxr.pdf)
+- [Click here to view the original 2-minute pitch (PDF)](pitch_neuroxr.pdf)  
+- [Clique aqui para visualizar o pitch original de 2 minutos (PDF)](pitch_neuroxr.pdf)
 
 ---
 
