@@ -2,33 +2,47 @@
 
 ## ENGLISH
 
-This folder contains the strategic application of storytelling and innovation communication, used to present original projects such as **InsightCare** and **NeuroXR**, developed and adapted by Alysson Bruno during the FIAP Storytelling course and academic activities.
+**Storytelling & Entrepreneurship** is an essential discipline in the global, self-directed portfolio.  
+Its focus is to develop advanced communication, narrative and pitching skills for presenting technological innovation and entrepreneurial ideas.
 
-The focus is on the ability to synthesize innovative ideas into high-impact pitches, connecting emotional narrative to technological solutions. The presentations reflect a clear structure, purpose, and technical innovation aligned with real-world problems.
+The course explores methods for transforming technical projects and insights into compelling, high-impact presentations — connecting emotional narratives to real-world challenges and opportunities.
 
-This section is part of the broader repository `global-solutions`, where all innovation prototypes are documented.
+**Contents:**
+- Fundamentals of storytelling for technology and startups
+- Pitch design, narrative building, and communication strategies
+- Case studies of innovation and business storytelling (InsightCare, NeuroXR, etc.)
+- Entrepreneurial mindset and value proposition
+- Practical exercises for impactful pitches and presentations
+- Deliverables: pitch PDF, demo videos, presentation slides, etc.
 
-### Contents
-- [Pitch PDF – InsightCare](pitch_insightcare.pdf)
+**Sample presentations from my portfolio:**  
+- [Pitch PDF – InsightCare](pitch_insightcare.pdf)  
 - [Pitch PDF – NeuroXR](pitch_neuroxr.pdf)
 
-All files are original and protected by authorship rights.
+All presentation materials, exercises, and projects have been independently produced or adapted by Alysson Bruno as part of ongoing self-directed education and portfolio building.
 
 ---
 
 ## PORTUGUÊS
 
-Esta pasta reúne a aplicação estratégica de storytelling e comunicação de inovação, utilizada para apresentar projetos originais como **InsightCare** e **NeuroXR**, desenvolvidos e adaptados por Alysson Bruno durante a disciplina de Storytelling da FIAP e em atividades acadêmicas.
+**Storytelling e Empreendedorismo** é uma disciplina essencial do portfólio global e autodidata.  
+Seu foco é desenvolver habilidades avançadas em comunicação, narrativa e pitch para apresentar ideias de inovação tecnológica e empreendedorismo.
 
-O foco está na capacidade de sintetizar ideias inovadoras em pitches de alto impacto, conectando narrativas emocionais a soluções tecnológicas. As apresentações refletem estrutura clara, propósito e inovação técnica alinhada a problemas reais.
+O estudo aborda métodos para transformar projetos e conceitos técnicos em apresentações envolventes e de alto impacto — conectando narrativas emocionais a desafios e oportunidades reais.
 
-Esta seção faz parte do repositório `global-solutions`, onde todos os protótipos de inovação estão documentados.
+**Conteúdo:**
+- Fundamentos de storytelling para tecnologia e startups
+- Construção de pitch, narrativa e técnicas de comunicação
+- Estudos de caso em storytelling de inovação e negócios (InsightCare, NeuroXR, etc.)
+- Mentalidade empreendedora e proposta de valor
+- Exercícios práticos de criação de pitches e apresentações de impacto
+- Entregas: pitch em PDF, vídeos demonstrativos, slides de apresentação, etc.
 
-### Conteúdo
-- [PDF do pitch – InsightCare](pitch_insightcare.pdf)
-- [PDF do pitch – NeuroXR](pitch_neuroxr.pdf)
+**Exemplos de apresentações do portfólio:**  
+- [Pitch PDF – InsightCare](pitch_insightcare.pdf)  
+- [Pitch PDF – NeuroXR](pitch_neuroxr.pdf)
 
-Todos os arquivos são originais e protegidos por direitos autorais.
+Todos os materiais, exercícios e projetos de apresentação foram produzidos ou adaptados de forma independente por Alysson Bruno como parte da evolução e construção de seu portfólio autodidata.
 
 ---
 
