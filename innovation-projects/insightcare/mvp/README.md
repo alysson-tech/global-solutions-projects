@@ -18,32 +18,23 @@ InsightCare is a conceptual platform focused on preventive health and well-being
 
 ## O que inclui este MVP? / What does this MVP include?
 
-- Uma landing page estática com simulações visuais das funções-chave do InsightCare  
-- Exemplo de dashboard com dados fictícios  
-- Apresentação visual do fluxo, recomendações e gamificação ilustrativa  
-- Explicação do conceito, objetivos e proposta de valor
-
-- A static landing page with visual simulations of InsightCare's core features  
-- Example dashboard with mock data  
-- Visual representation of the flow, recommendations, and gamification  
-- Explanation of the concept, objectives, and value proposition
+- Uma landing page estática com simulações visuais das funções-chave do InsightCare /  
+  A static landing page with visual simulations of InsightCare's core features
+- Exemplo de dashboard com dados fictícios /  
+  Example dashboard with mock data
+- Apresentação visual do fluxo, recomendações e gamificação ilustrativa /  
+  Visual representation of the flow, recommendations, and gamification
+- Explicação do conceito, objetivos e proposta de valor /  
+  Explanation of the concept, objectives, and value proposition
 
 ---
 
 ## Como visualizar / How to view
 
 1. Baixe ou clone o repositório e acesse a pasta `/mvp`  
-2. Abra o arquivo `index.html` diretamente em qualquer navegador web
-
-1. Download or clone the repository and access the `/mvp` folder  
-2. Open the `index.html` file directly in any web browser
-
----
-
-## Materiais complementares / Additional materials
-
-- [Apresentação do projeto (PDF)](../apresentacao.pdf)
-- [Pitch original (PowerPoint)](../apresentacao.pptx)
+   Download or clone the repository and access the `/mvp` folder
+2. Abra o arquivo `index.html` diretamente em qualquer navegador web  
+   Open the `index.html` file directly in any web browser
 
 ---
 
@@ -56,7 +47,6 @@ Created by Alysson Bruno Oliveira Santos and collaborators in 2025 for academic 
 First published: April 20, 2025.
 
 ---
-
 
 ## Direitos / Rights
 
