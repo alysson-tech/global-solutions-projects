@@ -1,76 +1,51 @@
-# InsightCare – Personalized Wellness with AI & Gamification • Bem-estar Personalizado com IA e Gamificação
+# InsightCare – Concept Only
 
-## ENGLISH
+Este repositório documenta uma ideia original desenvolvida por Alysson Bruno Oliveira Santos e Sérgio Yagi como proposta acadêmica (FIAP / Storytelling).  
+Não há código ou implementação; este projeto é apenas conceitual, para portfólio.
 
-**InsightCare** is a conceptual platform designed to promote health, well-being, and prevention through the intelligent analysis of behavioral and biological data collected from users.
+---
+
+## Visão Geral / Project Overview
+
+**InsightCare** é uma plataforma conceitual para promoção de saúde e bem-estar preventivo, utilizando IA generativa para analisar dados comportamentais, biológicos e ambientais coletados por dispositivos vestíveis, sensores IoT e integrações clínicas.
 
 The platform integrates:
 - Wearable devices and IoT sensors
 - Medical and lifestyle self-reports
-- Laboratory test data (via clinical system integrations)
+- Clinical laboratory data via API
 
-A generative AI model analyzes this data to:
-- Anticipate health risks
-- Provide personalized lifestyle recommendations
-- Offer gamified challenges to increase engagement and motivation
+A IA recomenda ações personalizadas, antecipa riscos e utiliza gamificação para engajar usuários.  
+Envisioned as a PaaS for clinics, companies, wellness centers, and insurers.
 
-The system is envisioned as a **Platform as a Service (PaaS)** that can be adopted by clinics, wellness centers, companies, or insurers. It aims to support preventive care and long-term health monitoring through a personalized, data-driven experience.
+---
 
-This project is in the conceptual prototype phase and is part of a long-term study in combining AI, health data, and digital behavior science.
+## Funcionalidades Propostas / Proposed Features
+- Personalized health risk analysis with AI
+- Gamified wellness challenges
+- Real-time monitoring, alerts, and feedback
+- Multi-level dashboards for users and providers
+- API integration with devices and clinical systems
 
-### Technologies Considered
-- Generative AI for health insights
-- Integration with APIs for wearables and clinical systems
-- Real-time dashboards and alert systems
+---
+
+## Tecnologias Consideradas / Technologies Considered
+- Generative AI for health and behavior insights
+- API integrations (wearables, clinics)
 - Gamification frameworks
-- Cloud computing for scalability and user data privacy
+- Real-time dashboards, cloud storage, privacy-focused architecture
 
 ---
 
-## PORTUGUÊS
+## Apresentação / Pitch
 
-**InsightCare** é uma plataforma conceitual desenvolvida para promover saúde, bem-estar e prevenção por meio da análise inteligente de dados comportamentais e biológicos coletados dos usuários.
-
-A plataforma integra:
-- Dispositivos vestíveis e sensores IoT
-- Auto-relatos sobre saúde e estilo de vida
-- Dados laboratoriais (via integração com sistemas clínicos)
-
-Um modelo de IA generativa analisa esses dados para:
-- Antecipar riscos de saúde
-- Fornecer recomendações personalizadas de estilo de vida
-- Propor desafios gamificados para aumentar o engajamento e a motivação
-
-O sistema é idealizado como uma **Plataforma como Serviço (PaaS)**, podendo ser adotado por clínicas, empresas, centros de bem-estar ou operadoras de saúde. Seu objetivo é apoiar o cuidado preventivo e o monitoramento contínuo da saúde por meio de uma experiência personalizada e orientada por dados.
-
-Este projeto está em fase conceitual e integra uma linha de estudos de longo prazo na combinação entre IA, dados de saúde e ciência do comportamento digital.
-
-### Tecnologias Consideradas
-- IA generativa para insights de saúde
-- Integração com APIs de vestíveis e sistemas clínicos
-- Dashboards em tempo real e sistemas de alerta
-- Frameworks de gamificação
-- Computação em nuvem com foco em escalabilidade e privacidade
+[Pitch original de 2 minutos (PDF)](pitch_insightcare.pdf)
 
 ---
 
-## Project Pitch • Apresentação do Projeto
+## Sobre / About
 
-- [Click here to view the original 2-minute pitch (PDF)](pitch_insightcare.pdf)  
-- [Clique aqui para visualizar o pitch original de 2 minutos (PDF)](pitch_insightcare.pdf)
+Cocriado por **Alysson Bruno Oliveira Santos** e **Sérgio Yagi** em 2025 durante a disciplina de Storytelling da FIAP.  
+Apresentação e narrativa do pitch desenvolvidas exclusivamente por Alysson Bruno.  
+Primeira publicação / First published: 20 de abril de 2025.
 
----
-
-## Authorship & Rights • Autoria e Direitos
-
-This project was co-created by **Alysson Bruno Oliveira Santos** and **Sérgio Yagi** during the Storytelling course at FIAP. The core concept was collaboratively developed, while the pitch presentation and storytelling structure were exclusively created by Alysson Bruno.
-
-Este projeto foi cocriado por **Alysson Bruno Oliveira Santos** e **Sérgio Yagi** durante a disciplina de Storytelling da FIAP. O conceito principal foi desenvolvido em colaboração, enquanto a apresentação do pitch e a estrutura narrativa foram elaboradas exclusivamente por Alysson Bruno.
-
-The content is original and protected by authorship rights. Reuse, adaptation, or commercial use is not permitted without explicit written permission.
-
-O conteúdo é original e protegido por direitos autorais. Não é permitido seu reaproveitamento, adaptação ou uso comercial sem autorização expressa por escrito.
-
----
-
-**Last updated:** April 2025 • **Última atualização:** Abril de 2025
+All rights reserved. / Todos os direitos reservados.
